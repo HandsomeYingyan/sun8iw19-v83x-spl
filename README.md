@@ -1,9 +1,11 @@
 # sun8iw19-v83x-spl
 
 Allwinner boot0 for v833/v831
+
 You can use any arm ELF/GNU/musl toolchain.
 
 Only for reference.
+
 Not tested on real devices yet.
 
 1.build mmc
